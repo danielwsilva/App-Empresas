@@ -1,20 +1,36 @@
-![N|Solid](https://img.shields.io/badge/feito%20por-danielwsilva-%237519C1?style=for-the-badge&logo=github)
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielwsilva/App-Empresas?color=%2304D361&style=for-the-badge">
+  
+  <a href="https://github.com/danielwsilva/lemaj-mobile/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielwsilva/App-Empresas?style=for-the-badge">
+  </a>
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
+
+  <a href="https://github.com/danielwsilva">
+    <img alt="Feito por Daniel Wallaccec" src="https://img.shields.io/badge/feito%20por-danielwsilva-%237519C1?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<h1 align="center">
+  <img src="./src/assets/ioasys.gif"><br> 
+</h1>
 
 ## 💻 Sobre o projeto
 
 A aplicação tem a finalidade de listar as empresas e visualizar seus respectivos detalhes para os usuários logados.
 
-[Telas da Aplicação (Figma)](https://bitbucket.org/danielwsilva/empresas-react-native/src/master/src/assets/figma.png)
+[Telas da Aplicação (Figma)](https://github.com/danielwsilva/App-Empresas/blob/main/src/assets/figma.png)
 
 ## 🧭 Rodando a aplicação
 
 ```bash
 
 # Clone este repositório
-$ git clone https://danielwsilva@bitbucket.org/danielwsilva/empresas-react-native.git
+$ git clone https://github.com/danielwsilva/App-Empresas.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd empresas-react-native
+$ cd App-Empresas
 
 # Instale as dependências
 $ yarn
@@ -42,10 +58,27 @@ Bibliotecas envolvidas na construção do projeto:
 - **react-native-responsive-fontsize** - Fontes responsivas
 
 
-## 🎁 Bônus
+<a name="-autor"></a>
 
-Não consegui implementar os bônus, pois ainda não tenho conhecimento.
+## 🦸‍♂️ **Autor**
 
-## 📝 Observações
+<p>
+<kbd>
+ <img src="https://avatars.githubusercontent.com/u/49720616?s=460&u=f377fae2c3a34e88ec79b138ad3b9aa980f013c6&v=4" width="150px;" alt=""/>
+ </kbd>
+ <br />
+ <sub><strong>🌟 Daniel Wallace 🌟</strong></sub>
+</p>
 
-Conforme conversa inicial com a Brenda, foi mencionado que eu não tinha experiência profissional com React Native. Mediante a isto, apliquei todo o meu conhecimento adquirido em projetos pessoas e estudos. Atualmente adquiri o Bootcamp Ignite (Rocketseat) para continuar evoluindo.
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-wallace-1b9280b2/)](https://www.linkedin.com/in/daniel-wallace-1b9280b2/)
+[![Gmail Badge](https://img.shields.io/badge/-danielwllace@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielwllace@gmail.com)](mailto:danielwllacec@gmail.com)
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com :satisfied: por Daniel Wallacec 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-wallace-1b9280b2/)
+
+---
